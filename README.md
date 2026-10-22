@@ -35,7 +35,7 @@ Historical weather dataset: [Weather Australia Dataset](https://rattle.togaware.
 
 Weather forecast API: [Open-Meteo](https://open-meteo.com/)
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open `Weather_prediction.ipynb` in Google Colab.
 2. Run the notebook cells in order.
@@ -43,6 +43,6 @@ Weather forecast API: [Open-Meteo](https://open-meteo.com/)
 4. Launch the Gradio application.
 5. Enter a city name to view the forecast and ML demonstration.
 
-## ⚠️ Note
+##  Note
 
 The Gradio share link generated through Google Colab is temporary. If the runtime resets, rerun the notebook cells to launch the application again.
